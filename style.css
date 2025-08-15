@@ -126,6 +126,7 @@ body {
 
 .eth-price {
   color: var(--color-primary-cyan-400);
+  font-weight: 700;
 }
 
 .content__autor {
